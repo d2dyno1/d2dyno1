@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 Creator of [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas)
 
-<a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=d2dyno1&hide_border=true&title_color=ffffff&text_color=d6d6d6&show_icons=true&icon_color=91beeb&bg_color=45,3c91e1,0069d1,0055ab,0066cc&count_private=true&include_all_commits=true" />
-</a>
+<a><img height="144px" src="https://github-readme-stats.vercel.app/api?username=d2dyno1&hide_border=true&title_color=ffffff&text_color=d6d6d6&border_radius=8&show_icons=true&icon_color=FAC8C7&bg_color=0,000000,EB5757&count_private=true&include_all_commits=true" />&nbsp;&nbsp;&nbsp;<img height="144px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2dyno1&hide=html&hide_border=true&title_color=ffffff&text_color=d6d6d6&border_radius=8&show_icons=true&icon_color=FAC8C7&bg_color=0,000000,EB5757" /></a>
